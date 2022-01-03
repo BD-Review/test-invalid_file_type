@@ -5,10 +5,10 @@
             "version": [
                 0,
                 0,
-                0
+                1
             ],
             "allow_automatic_download": true,
-            "download_url": "https://github.com/BD-Review/Test_[NAME]/archive/refs/heads/main.zip",
+            "download_url": "https://github.com/BD-Review/test-invalid_file_type",
             "minimum_blender_version": [
                         2,
                         83,
